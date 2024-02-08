@@ -25,11 +25,11 @@ class Program
 
             //var toSave = new NewsletterContact();
             
-            //toSave.NewsletterContactId = arr1[0];
+            //toSave.NewsletterContactId = new Guid;
             //toSave.ClusterId = arr1[1];
             //toSave.Name = arr1[2];
             //toSave.Email = arr1[3];
-            //toSave.Preferelocate = arr1[4];
+            //toSave.PreferredLocate = arr1[4];
             //toSave.CreateAt = arr1[5];
             //toSave.UpdateAt = arr1[6];
 
