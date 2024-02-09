@@ -24,14 +24,14 @@ class Program
             string[]  arr1 = row.Split(',');
 
             //var toSave = new NewsletterContact();
-            
-            //toSave.NewsletterContactId = new Guid;
-            //toSave.ClusterId = arr1[1];
-            //toSave.Name = arr1[2];
-            //toSave.Email = arr1[3];
-            //toSave.PreferredLocate = arr1[4];
-            //toSave.CreateAt = arr1[5];
-            //toSave.UpdateAt = arr1[6];
+
+            //toSave.NewsletterContactId = new Guid();
+            //toSave.ClusterId = 1;
+            //toSave.Name = arr2[2];
+            //toSave.Email = arr2[3];
+            //toSave.PreferredLocale = arr2[4];
+            //toSave.CreatedAt = time;
+            //toSave.UpdatedAt = time;
 
             //_context.NewsletterContact.Add(toSave);
             //_context.SaveChanges();

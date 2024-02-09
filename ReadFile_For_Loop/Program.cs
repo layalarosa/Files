@@ -28,13 +28,13 @@ class Program
 
             //var toSave = new NewsletterContact();
 
-            //toSave.NewsletterContactId = new Guid;
-            //toSave.ClusterId = arr2[1];
+            //toSave.NewsletterContactId = new Guid();
+            //toSave.ClusterId = 1;
             //toSave.Name = arr2[2];
             //toSave.Email = arr2[3];
-            //toSave.PreferredLocate = arr2[4];
-            //toSave.CreateAt = arr2[5];
-            //toSave.UpdateAt = arr2[6];
+            //toSave.PreferredLocale = arr2[4];
+            //toSave.CreatedAt = time;
+            //toSave.UpdatedAt = time;
 
             //_context.NewsletterContact.Add(toSave);
             //_context.SaveChanges();
@@ -48,13 +48,13 @@ class Program
 
         //    var toSave = new NewsletterContact();
 
-        //    toSave.NewsletterContactId = new Guid;
-        //    toSave.ClusterId = arr2[1];
-        //    toSave.Name = arr2[2];
-        //    toSave.Email = arr2[3];
-        //    toSave.Preferelocate = arr2[4];
-        //    toSave.CreateAt = arr2[5];
-        //    toSave.UpdateAt = arr2[6];
+        //toSave.NewsletterContactId = new Guid();
+        //toSave.ClusterId = 1;
+        //toSave.Name = arr2[2];
+        //toSave.Email = arr2[3];
+        //toSave.PreferredLocale = arr2[4];
+        //toSave.CreatedAt = time;
+        //toSave.UpdatedAt = time;
 
         //    _context.NewsletterContact.Add(toSave);
         //    _context.SaveChanges();
