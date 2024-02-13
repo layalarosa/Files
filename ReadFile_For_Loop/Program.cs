@@ -102,6 +102,10 @@ class Program
         //    sr.Close();
         //    fs.Close();
 
+        //} 
+        //catch (Exception ex)
+        //{
+        //  Console.WriteLine(ex.Message);
         //}
     }
 }
