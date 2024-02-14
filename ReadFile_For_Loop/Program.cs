@@ -10,6 +10,7 @@ class Program
         //var path = Path.GetFullPath(@"C:\Users\layal\OneDrive\Escritorio\Newsletter.csv");
 
         // ESTE CODIGO FUNCIONA PARA INSERTAR DATOS DE UN EXCEL A SQL POR MEDIO DE ENTITYFRAMEWORK
+        // ESTE CODIGO SOLO HAY QUE AÑADIR EL PATHFILE CORRECTO Y CORRER EL PROYECTO Y ESPERAR QUE CARGE LA INF
 
         //try
         //{
