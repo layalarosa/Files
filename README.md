@@ -1,4 +1,4 @@
-Read File 
+READ FILE 
 
 ReadFile - Este codigo consiste en leer todos los datos copiarlos de la consola. Pasarlos a un query en SQL y aho trabajarlo.
 
