@@ -44,6 +44,8 @@ In summary, this code allows you to take a CSV file with contact data and save i
 
 The code will soon be updated to optimize its operation. As part of this update, a new feature will be implemented that will centralize and manage all existing code. This will allow the system to operate more efficiently and the code to work through this newly created feature.
 
+10/16/2024 Update on the way v.1.0
+
 
 
 
