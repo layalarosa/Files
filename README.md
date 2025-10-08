@@ -40,10 +40,6 @@ Closing the File: After all the lines are processed, the file is closed to free 
 
 In summary, this code allows you to take a CSV file with contact data and save it to a database using Entity Framework. You must ensure that the CSV file is correctly formatted and that the database context (_context) is properly configured so that the data is stored correctly.
 
-10/12/2024 Update on the way v.1.0
-
-The code will soon be updated to optimize its operation. As part of this update, a new feature will be implemented that will centralize and manage all existing code. This will allow the system to operate more efficiently and the code to work through this newly created feature.
-
 
 
 
